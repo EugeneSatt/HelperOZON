@@ -1,0 +1,51 @@
+{
+  "id": "paper-sky-pink-lime-v1",
+  "palette": {
+    "ink": "#20211E",
+    "paper": "#F1EBE2",
+    "white": "#FCF9F3",
+    "sky": "#A8CEDF",
+    "pink": "#EDA4B9",
+    "lime": "#DFED68",
+    "muted": "#625F58",
+    "stripe": "#E9E4DB",
+    "missing": "#E1DDD4"
+  },
+  "fonts": {
+    "display": {
+      "file": "fonts/WB-Roast-Display-Black.ttf",
+      "family": "WB Roast Display"
+    },
+    "body": {
+      "file": "fonts/Roboto-Regular.ttf",
+      "family": "Roboto"
+    },
+    "bold": {
+      "file": "fonts/Roboto-Bold.ttf",
+      "family": "Roboto"
+    },
+    "hand": {
+      "file": "fonts/Caveat-Bold.ttf",
+      "family": "Caveat"
+    }
+  },
+  "status_palette": {
+    "green": "sky",
+    "yellow": "lime",
+    "red": "pink",
+    "nodata": "missing",
+    "info": "paper"
+  },
+  "page": {
+    "size": "A4",
+    "margin_pt": 30,
+    "body_min_pt": 9,
+    "caption_min_pt": 7.5
+  },
+  "layout": {
+    "overview": "oversized-condensed-type-and-taped-cover",
+    "actions": "numbered-paper-strips",
+    "covers": "four-framed-cards-per-row",
+    "decorations": "marker-loops-arrows-tape-sparse-stars"
+  }
+}

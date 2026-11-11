@@ -1,0 +1,4 @@
+interface:
+  display_name: "OZ SEO EGI"
+  short_description: "SEO-тексты по карточке и запросам Ozon"
+  default_prompt: "Используй $oz-seo-egi, чтобы изучить товар по ссылке Ozon, обработать выгрузки поисковых запросов и подготовить три проверенных SEO-описания в Excel."

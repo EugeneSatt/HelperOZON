@@ -1,0 +1,41 @@
+[
+  {
+    "file": "WB-Roast-Display-Black.ttf",
+    "sha256": "d7cc4cc181fed673a5370512b378b6fb59b4607f75587c9ce4c2883af1967b7a",
+    "source": "https://github.com/google/fonts/tree/main/ofl/robotocondensed",
+    "instance": {
+      "wght": 900
+    },
+    "license": "robotocondensed-OFL.txt",
+    "modification": "Static weight 900; glyph outlines and advance widths horizontally scaled to 80%; renamed WB Roast Display. Original copyright and OFL retained."
+  },
+  {
+    "file": "Roboto-Regular.ttf",
+    "sha256": "09cd43e5bb5ba723ede0199af02f2b53b722f8678a6996e22ba0d53856369c8f",
+    "source": "https://github.com/google/fonts/tree/main/ofl/roboto",
+    "instance": {
+      "wght": 400,
+      "wdth": 100
+    },
+    "license": "roboto-OFL.txt"
+  },
+  {
+    "file": "Roboto-Bold.ttf",
+    "sha256": "83052631b43356e5f80ac0ce03d149a6058207034e8605055fb4a5823f94aa7a",
+    "source": "https://github.com/google/fonts/tree/main/ofl/roboto",
+    "instance": {
+      "wght": 700,
+      "wdth": 100
+    },
+    "license": "roboto-OFL.txt"
+  },
+  {
+    "file": "Caveat-Bold.ttf",
+    "sha256": "8632adfa36f21df078f5ee91bcea62bbe7e551b4b5a1fd21d6deaa25513c280e",
+    "source": "https://github.com/google/fonts/tree/main/ofl/caveat",
+    "instance": {
+      "wght": 700
+    },
+    "license": "caveat-OFL.txt"
+  }
+]

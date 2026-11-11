@@ -1,0 +1,4 @@
+interface:
+  display_name: "OZ Rewiew Chat EGI"
+  short_description: "Find 4–5★ reviews by SKU and message buyers"
+  default_prompt: "Используй $oz-rewiew-chat-egi: обработай отзывы 4–5★ за указанные даты через Chrome и Computer Use и отправь два сообщения в чаты покупателей."

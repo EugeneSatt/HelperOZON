@@ -1,0 +1,6 @@
+interface:
+  display_name: "Прожарка карточки Ozon EGI"
+  short_description: "Улучшения карточки Ozon по конкурентам из MPStats"
+  default_prompt: "Используй $oz-card-roast-egi: сравни мою карточку Ozon с конкурентами из MPStats, предложи до трёх приоритетных правок и подготовь Excel и PDF."
+policy:
+  allow_implicit_invocation: true

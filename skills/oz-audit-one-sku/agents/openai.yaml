@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ozon: аудит одного SKU"
+  short_description: "SEO, реклама и юнит-экономика SKU"
+  default_prompt: "Используй $oz-audit-one-sku для полного браузерного аудита одного товара Ozon с HTML-отчётом."
