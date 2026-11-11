@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="144" viewBox="0 0 960 144" role="img" aria-labelledby="title description">
+  <title id="title">Как проходит А/Б-тест обложки</title>
+  <desc id="description">Проверка SKU и трафика, один проход по обложкам, сравнение CTR после набора объёма, проверка итогового фото и HTML-отчёт в чате.</desc>
+  <rect width="960" height="144" rx="24" fill="#f4f6fb"/>
+  <g fill="none" stroke="#53647b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M232 72h20m-6-6 6 6-6 6"/>
+    <path d="M470 72h20m-6-6 6 6-6 6"/>
+    <path d="M708 72h20m-6-6 6 6-6 6"/>
+  </g>
+  <rect x="20" y="24" width="206" height="96" rx="16" fill="#dceeff" stroke="#a7c5e8"/>
+  <rect x="258" y="24" width="206" height="96" rx="16" fill="#ffe5ee" stroke="#e6b7c9"/>
+  <rect x="496" y="24" width="206" height="96" rx="16" fill="#e7ecff" stroke="#b8c4ec"/>
+  <rect x="734" y="24" width="206" height="96" rx="16" fill="#eaf3be" stroke="#bcca88"/>
+  <g font-family="system-ui, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g font-size="20" font-weight="700" fill="#16223a">
+      <text x="123" y="65">Проверка SKU</text>
+      <text x="361" y="65">A → B → C</text>
+      <text x="599" y="65">Сравнение CTR</text>
+      <text x="837" y="65">Итог в чате</text>
+    </g>
+    <g font-size="15" fill="#35445d">
+      <text x="123" y="91">Трафик за 3 дня</text>
+      <text x="361" y="91">C — если согласована</text>
+      <text x="599" y="91">После набора объёма</text>
+      <text x="837" y="91">Фото и HTML-отчёт</text>
+    </g>
+  </g>
+</svg>
